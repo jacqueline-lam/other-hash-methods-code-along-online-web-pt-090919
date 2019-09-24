@@ -13,3 +13,5 @@ def get_the_min(groceries)
   # get themin value
   groceries.value.flatten.min
 end
+
+#=> "broccoli"
